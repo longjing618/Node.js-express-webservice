@@ -1,6 +1,6 @@
 This is a webservice infrastructure writen with node.js express framework.
 
-To run the webservice, please put it into the node.js folder and run "node app.js"
+To run the webservice, please put it into the node.js folder and run "node app.js" (make sure to run under express framework and install all necessary modules)
 
 Here is the brief description of the files/folders.
 
